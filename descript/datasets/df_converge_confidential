@@ -1,0 +1,19 @@
+setwd("/Users/karolinak/Library/######################################################Compare case")
+
+#libraries
+library(readxl)
+library(dplyr)
+library(ggplot2)
+library(psych)
+library(reshape2)
+library(lattice)
+library(nlme)
+library(dplyr)
+library(caret)
+
+
+
+options(scipen = 999)
+
+
+#new vars -----------
